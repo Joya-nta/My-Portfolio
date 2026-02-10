@@ -8,8 +8,8 @@ export default function About() {
         <>
             <title>{`About Me | ${personalInfo.name || 'User'} - Background & Skills`}</title>
             <meta name="description" content={`Learn more about ${personalInfo.name}'s journey in software development, technical stack including PHP, Laravel, and React, and professional experience.`} />
-            <Experience />
             <Education />
+            <Experience />
             <SkillBox />
         </>
     )

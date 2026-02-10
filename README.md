@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This is a modern, responsive, and mult
 
 ## About Me
 
-- **Name:** [Shibadipta Pal]
+- **Name:** Joyanta Banerjee
 - **College:** Kalyani Government Engineering College (KGEC)
 - **Specialization:** Full-Stack Development (Laravel & React)
 - **Current Role:** Web Developer Intern at IEEE CIS & Arodek
@@ -68,7 +68,7 @@ mindmap
 │   └── man-technologyst.png
 ├── src/
 │   ├── assets/
-│   │   └── Shibadipta.jpg
+│   │   └── Profile.jpeg
 │   ├── components/
 │   │   ├── Card.jsx
 │   │   ├── Education.jsx
@@ -108,7 +108,7 @@ mindmap
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shibu-pal/portfolio
+   git clone https://github.com/Joya-nta/My-Portfolio
    cd portfolio
    ```
 
@@ -144,8 +144,8 @@ mindmap
 
 ## Contact Me
 
-- Email: shibadiptapal@gmail.com
+- Email: tr905706@gmail.com
 
-- LinkedIn: [Click here](https://linkedin.com/in/shibadipta-pal-0348972a6)
+- LinkedIn: [Click here](https://linkedin.com/in/joyanta-banerjee-a48a95294)
 
-- Website: [Click here](https://shibu-pal.github.io/portfolio)
+- Website: [Click here](https://github.com/Joya-nta)

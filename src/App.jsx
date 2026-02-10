@@ -20,10 +20,6 @@ function App() {
   return (
     <ThemeProvider>
       <HashRouter>
-        <meta property="og:title" content={`${personalInfo.name} | Full Stack Developer`} />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://shibu-pal.github.io/portfolio" />
-        <meta property="og:image" content={Image} />
         <Sidebar />
         <Navbar />
         <Routes>
