@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <>
             <title>{`${personalInfo.name || 'User'} | Full Stack Developer & Laravel Expert`}</title>
-            <meta name="description" content={`Portfolio of ${personalInfo.name}, a Full Stack Developer specializing in Laravel, React, and modern web solutions. Explore my projects and technical expertise.`} />
+            <meta name="description" content={`Portfolio of ${personalInfo.name}, a Full Stack Developer specializing in Bootstrap, React and modern web solutions. Explore my projects and technical expertise.`} />
             <header id="home" className="hero-section">
                 <div className="container hero-flex">
 
@@ -14,7 +14,7 @@ export default function Home() {
                         <h1>Hi, I'm <span style={{ color: "var(--primary-color)" }}>{personalInfo.name}</span></h1>
                         <p>
                             Computer Science Student at <strong>KGEC</strong> |
-                            Full Stack Developer specializing in <strong>Laravel & React</strong>
+                            Full Stack Developer specializing in <strong>Bootstrap & React</strong>
                         </p>
                         <div className="hero-btns">
                             <Link to="/projects" className="btn" data-aos="zoom-in">View My Work</Link>
@@ -36,7 +36,7 @@ export default function Home() {
                             button below to download my resume.</p>
                     </div>
                     <div className="resume-action">
-                        <a href={`https://drive.google.com/uc?export=download&id=${personalInfo.cv}`} download
+                        <a href={`https://drive.google.com/file/d/16wkUTGNV6H5TrvuulPvvfaNEnBLGGXyf/view?usp=sharing=${personalInfo.cv}`} download
                             className="btn btn-resume" target="_blank" data-aos="zoom-in" data-aos-delay="500">
                             <span>Download CV</span>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" className="resume-icon">
